@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 - Solution URL: [HTML](https://github.com/Ahmedelshinnawi/Social-links-profile/blob/main/index.html)
 - Solution URL: [CSS](https://github.com/Ahmedelshinnawi/Social-links-profile/blob/main/style.css)
-- Live Site URL: [Live Site]([https://your-live-site-url.com](https://ahmedelshinnawi.github.io/Social-links-profile/))
+- Live Site URL: [Live Site](https://ahmedelshinnawi.github.io/Social-links-profile/)
 
 ## My process
 
