@@ -37,7 +37,7 @@ main {
 }
 
 .profile {
-    background-image: url(images/avatar-jessica.jpeg);
+    background-image: url(assets/images/avatar-jessica.jpeg);
     display: block;
     background-size: contain;
     height: 87px;
